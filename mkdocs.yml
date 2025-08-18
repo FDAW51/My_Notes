@@ -1,0 +1,89 @@
+site_name: Electrodynamic Notes
+site_description: My learning notes when i learn <Classical Electrodynamic 3rd> by Jackson.
+site_author: Eugene 
+site_url: https://quantum51.top/EDA
+
+repo_name: FDAW51/EDA
+repo_url: https://github.com/FDAW51/EDA
+
+theme:     
+  name: material
+  custom_dir: custom
+  language: en
+  favicon: assets/favicon.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: fontawesome/solid/earth-americas
+    repo: fontawesome/brands/github
+  features:
+    - content.code.copy
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+# Customization     
+copyright: Built by <a href="http://github.com/FDAW51">Eugene</a> &copy; 2025 - 2030
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/FDAW51 
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/Eugene474361140
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/y-eugene-aa4201374/
+  analytics:
+    provider: google
+    property: G-NE8FKX91SB
+
+extra_css:
+  - css/katex.css
+  - css/custom.css
+  - https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.css
+
+extra_javascript: 
+  - js/katex.js
+  - https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.js
+  - https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/contrib/auto-render.min.js
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+nav:      # 网站的文章的结构
+  - Preface: index.md
+  - I Foundations:
+      - 1 The Role of Algorithms in Computing:
+          - 1.1 Algorithms: Chap01/1.1.md
+          - 1.2 Algorithms as a technology: Chap01/1.2.md
+          - Chap 1 Problems:
+              - Problem 1-1: Chap01/Problems/1-1.md
+      - 2 Getting Started:
+          - 2.1 Insertion sort: Chap02/2.1.md
+          - 2.2 Analyzing algorithms: Chap02/2.2.md
+          - 2.3 Designing algorithms: Chap02/2.3.md
+          - Chap 2 Problems:
+              - 2-1 Insertion sort on small arrays in merge sort: Chap02/Problems/2-1.md
+              - 2-2 Correctness of bubblesort: Chap02/Problems/2-2.md
+              - 2-3 Correctness of Horner's rule: Chap02/Problems/2-3.md
+              - 2-4 Inversions: Chap02/Problems/2-4.md
+
