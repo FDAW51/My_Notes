@@ -80,11 +80,8 @@ nav:
           - Chap 1 Problems: ED/Chap01/Probs/test.md
   - II Algorithms:
       - Preface: Algorithms/Preface.md
-      - 1 算法在计算中的作用:
-          - Chap 1 Note: Algorithms/Chap01/Note.md
-          - Chap 1 Problems: Algorithms/Chap01/Problems.md
-      - 2 算法基础:
-          - Chap 2 Note: Algorithms/Chap02/Note.md
-          - Chap 2 Problems: Algorithms/Chap02/Problems.md
-
+      - 4 分冶法(Divide and Conquer):
+          - Chap 4 Note: Algorithms/Chap04/Note/Note.md
+          - Chap 4 Problems: Algorithms/Chap04/Problems/Problems.md
+      
 
