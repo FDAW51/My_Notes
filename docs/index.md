@@ -27,7 +27,7 @@ Sutton的大概的目标是想要做成像流浪地球二那样，有一个人�
 ## Notes
 
 1. [Electrodynamics](ED/Preface/)
-2. [The introduction to Algorithm](Algorithm/Preface/)(Notes and Some Solutions of Probs)
+2. [The introduction to Algorithm](/Algorithm/Preface/)(Notes and Some Solutions of Probs)
 3. Reinforcement learning 2nd version.
 
 ## License
