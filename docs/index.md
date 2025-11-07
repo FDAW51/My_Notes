@@ -7,7 +7,7 @@
 
 ## Recently
 
-最近看到ARC官网明年在Kaggle上公布的比赛-是有关人工智能如何在动态的过程中去规划的，我也想打造一个属于我自己的agent
+最近看到ARC官网明年在Kaggle上公布的比赛-是有关人工智能如何在动态的过程中去规划计划的，我也想打造一个属于我自己的agent
 
 下面这句话是我看强化学习之父Sutton的网页：
 
@@ -15,19 +15,14 @@
 
 Sutton的大概的目标是想要做成像流浪地球二那样，有一个人工智能集群能够实时处理外部信息，并且集体协作，完成一定的任务。
 
-1. Electrodynamics
-2. Algorithm
-3. Reinforcement Learning 
+下一步：学习 reinforcement learning 
 
 进度：
 
-1. ED Chap1 
-2. Algorithm:Chap4(但是前几章的笔记没有更新)
-
 ## Notes
 
-1. [Electrodynamics](ED/Preface/)
-2. [The introduction to Algorithm](/Algorithm/Preface/)(Notes and Some Solutions of Probs)
+1. [Electrodynamics](\web)
+2. [The introduction to Algorithm]()(Notes and Some Solutions of Probs)
 3. Reinforcement learning 2nd version.
 
 ## License

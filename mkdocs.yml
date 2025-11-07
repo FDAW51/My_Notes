@@ -83,5 +83,8 @@ nav:
       - 4 分冶法(Divide and Conquer):
           - Chap 4 Note: Algorithms/Chap04/Note/Note.md
           - Chap 4 Problems: Algorithms/Chap04/Problems/Problems.md
+  - II Reinforcement Learning:
+      - Preface: RL/Preface.md
+      - 3 Finite Markov Decision Process:
+          - Chap 3 Note: RL/Chap03/Note/Note.md
       
-

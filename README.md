@@ -9,8 +9,8 @@ _"Many a little makes a mickle."_
 
 ## Notes
 
-1. -[Electrodynamics](\ED\Preface)
-2. -[The introduction to Algorithm]()(Notes and Some Solutions of Probs)
+1. [Electrodynamics](\web)
+2. [The introduction to Algorithm]()(Notes and Some Solutions of Probs)
 
 ## License
 
